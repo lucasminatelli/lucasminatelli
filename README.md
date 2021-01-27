@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou Lucas Minatelli 👋
 
-<!--
-**lucasminatelli/lucasminatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Engenheiro de Controle e Automação
+🇧🇷 Natural de Belo Horizonte, Minas Gerais
+💻 Desenvolvedor
 
-Here are some ideas to get you started:
+### O que eu desenvolvo 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Aplicativos mobile ![Ionic](https://github.com/topics/scriptcase)
+⌨️ Softwares web ![Sriptcase](https://github.com/ionic-team/ionic-framework)
+
+### Onde me econtrar 🌎
+
+💼 ![LinkedIn](https://www.linkedin.com/in/lucas-minatelli-rezende-44473016b/)
