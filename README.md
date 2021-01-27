@@ -6,7 +6,7 @@
 
 ### O que eu desenvolvo 👨‍💻
 
-📱 Aplicativos mobile [Ionic](https://github.com/topics/scriptcase) <br>
+📱 Aplicativos mobile [Minhas habilidades em IONIC](https://github.com/lucasminatelli/lucasminatelli/blob/main/ionic_skills.md) <br>
 ⌨️ Softwares web [Sriptcase](https://github.com/ionic-team/ionic-framework) <br>
 
 ### Onde me econtrar 🌎
