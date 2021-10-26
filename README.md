@@ -6,8 +6,9 @@
 
 ### O que eu desenvolvo 👨‍💻
 
-📱 Aplicativos mobile [Minhas habilidades em IONIC](https://github.com/lucasminatelli/lucasminatelli/blob/main/ionic_skills.md) <br>
-⌨️ Scriptcase [Minhas habilidades em SCRIPTCASE](https://github.com/lucasminatelli/lucasminatelli/blob/main/scriptcase_skills.md) <br>
+⌨️ Aplicações Web com React JS <br>
+📱 Aplicativos mobile com Ionic 5 <br>
+⌨️ Scriptcase 9 <br>
 
 ### Onde me econtrar 🌎
 
