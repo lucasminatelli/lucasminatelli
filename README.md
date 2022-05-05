@@ -1,8 +1,8 @@
 ### Hi, this is Lucas Minatelli 👋
 
-💻 React JS developer <br>
-⚙️ Software Engineer student <br>
-🇧🇷  Live in São Paulo, SP | From Belo Horizonte, MG <br>
+💻 Dev React JS <br>
+⚙️ Pós Graduado em Engenharia de Software <br>
+🇧🇷  São Paulo, SP | De Belo Horizonte, MG <br>
 
 <div align="center">
   <a href="https://github.com/lucasminatelli">
