@@ -1,4 +1,4 @@
-### Hi, this is Lucas Minatelli 👋
+### Olá, eu sou Lucas Minatelli 👋
 
 💻 Dev React JS <br>
 ⚙️ Pós Graduado em Engenharia de Software <br>
