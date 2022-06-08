@@ -1,8 +1,8 @@
-### Olá, eu sou Lucas Minatelli 👋
+### Hi, this is Lucas Minatelli 👋
 
 💻 Dev React JS <br>
-⚙️ Pós Graduado em Engenharia de Software <br>
-🇧🇷  São Paulo, SP | De Belo Horizonte, MG <br>
+⚙️ Post Graduate in Software Engineering<br>
+🇧🇷  São Paulo, SP | From Belo Horizonte, MG <br>
 
 <div align="center">
   <a href="https://github.com/lucasminatelli">
@@ -24,14 +24,18 @@
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
   
-##  
-  
-  <div> 
+   ##
+ <div> 
   <a href = "mailto:lucas.minatelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-minatelli-rezende-44473016b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+  <br>
+    
+  ### Some Projects 👨🏾‍🚀
   
-## Games
-   <div> 
-  <a href = "https://lucasminatelli.github.io/mario/"><img src="https://user-images.githubusercontent.com/78113328/166939165-b938fae5-8cb4-42ef-b63f-96a5945f335e.gif" target="_blank"></a>
- </div>
+<div align="center">
+    <a href = "https://lucasminatelli.github.io/mario/"><img width="50%" src="https://user-images.githubusercontent.com/78113328/172727500-e710c85d-412a-4918-b821-52554c8e8178.gif" target="_blank"></a>
+  <p>Mario</p>
+    <a href = "https://lucasminatelli.github.io/gametemplate/"><img width="50%" src="https://user-images.githubusercontent.com/78113328/166939165-b938fae5-8cb4-42ef-b63f-96a5945f335e.gif" target="_blank"></a>
+    <p>Game Template</p>
+  </div>
