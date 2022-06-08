@@ -30,3 +30,8 @@
   <a href = "mailto:lucas.minatelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-minatelli-rezende-44473016b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+  
+## Games
+   <div> 
+  <a href = "https://lucasminatelli.github.io/mario/"><img src="https://user-images.githubusercontent.com/78113328/166939165-b938fae5-8cb4-42ef-b63f-96a5945f335e.gif" target="_blank"></a>
+ </div>
