@@ -34,8 +34,8 @@
   ### Some Projects 👨🏾‍🚀
   
 <div align="center">
-    <a href = "https://lucasminatelli.github.io/mario/"><img width="50%" src="https://user-images.githubusercontent.com/78113328/172727500-e710c85d-412a-4918-b821-52554c8e8178.gif" target="_blank"></a>
+    <a href="https://lucasminatelli.github.io/mario"><img width="50%" src="https://user-images.githubusercontent.com/78113328/172727500-e710c85d-412a-4918-b821-52554c8e8178.gif" target="_blank"></a>
   <p>Mario</p>
-    <a href = "https://lucasminatelli.github.io/gametemplate/"><img width="50%" src="https://user-images.githubusercontent.com/78113328/166939165-b938fae5-8cb4-42ef-b63f-96a5945f335e.gif" target="_blank"></a>
+    <a href="https://lucasminatelli.github.io/gametemplate"><img width="50%" src="https://user-images.githubusercontent.com/78113328/166939165-b938fae5-8cb4-42ef-b63f-96a5945f335e.gif" target="_blank"></a>
     <p>Game Template</p>
   </div>
