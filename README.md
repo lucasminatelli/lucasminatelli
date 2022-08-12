@@ -30,7 +30,12 @@
   <a href="https://www.linkedin.com/in/lucas-minatelli-rezende-44473016b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   <br>
-    
+  ### Rocketseat
+  <div align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/78113328/184389740-05929bf3-d8d7-419f-a0b2-2061ac221092.png" target="_blank">
+  </div>
+
+  <br>
   ### Some Projects 👨🏾‍🚀
   
 <div align="center">
