@@ -1,8 +1,8 @@
-### Hi, this is Lucas Minatelli 👋
+### Olá, sou o Lucas Minatelli 👋
 
 💻 Dev React JS <br>
-⚙️ Post Graduate in Software Engineering<br>
-🇧🇷  São Paulo, SP | From Belo Horizonte, MG <br>
+⚙️ Pós-graduado em Engenharia de Software<br>
+🇧🇷  São Paulo, SP | De Belo Horizonte, MG <br>
 
 <div align="center">
   <a href="https://github.com/lucasminatelli">
@@ -38,7 +38,7 @@
   </div>
 
   <br>
-  ### Some Projects 👨🏾‍🚀
+  ### Alguns Projetos 👨🏾‍🚀
   
 <div align="center">
     <a href="https://lucasminatelli.github.io/mario"><img width="50%" src="https://user-images.githubusercontent.com/78113328/172727500-e710c85d-412a-4918-b821-52554c8e8178.gif" target="_blank"></a>
