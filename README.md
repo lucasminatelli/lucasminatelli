@@ -1,16 +1,23 @@
-### Olá, sou o Lucas Minatelli 👋
-
-💻 Dev React JS <br>
-⚙️ Pós-graduado em Engenharia de Software<br>
-🇧🇷  São Paulo, SP | De Belo Horizonte, MG <br>
+<div align="left">
+  
+  <h1>Olá, mundo 👋</h1> 
+  <div display='flex' >
+    
+      Um pouco mais sobre mim:
+    
+      💻 Dev React JS
+      ⚙️ Pós-graduado em Engenharia de Software
+      🇧🇷  São Paulo, SP | De Belo Horizonte, MG
+  </div>
+</div>
 
 <div align="center">
   <a href="https://github.com/lucasminatelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasminatelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=lucasminatelli&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasminatelli&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
@@ -31,14 +38,14 @@
   <a href="https://www.linkedin.com/in/lucas-minatelli-rezende-44473016b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   <br>
-  ### Rocketseat
+  <h3>Rocketseat</h3> 
   <div align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/78113328/184389740-05929bf3-d8d7-419f-a0b2-2061ac221092.png" target="_blank">
     <p>01. Desafio Ignite</p>
   </div>
 
   <br>
-  ### Alguns Projetos 👨🏾‍🚀
+  <h3>Alguns Projetos 👨🏾‍🚀</h3> 
   
 <div align="center">
     <a href="https://lucasminatelli.github.io/mario"><img width="50%" src="https://user-images.githubusercontent.com/78113328/172727500-e710c85d-412a-4918-b821-52554c8e8178.gif" target="_blank"></a>
