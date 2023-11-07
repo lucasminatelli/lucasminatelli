@@ -7,7 +7,7 @@
     
       💻 Dev React JS
       ⚙️ Pós-graduado em Engenharia de Software
-      🇧🇷  São Paulo, SP | De Belo Horizonte, MG
+      🇧🇷  De Belo Horizonte, MG
   </div>
 </div>
 
